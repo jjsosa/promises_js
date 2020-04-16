@@ -1,0 +1,25 @@
+{
+  "name": "promises_js",
+  "version": "1.0.0",
+  "description": "Fighting with Javascript promises hahah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjsosa/promises_js.git"
+  },
+  "keywords": [
+    "javascript",
+    "promises",
+    "async",
+    "await"
+  ],
+  "author": "jjsosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjsosa/promises_js/issues"
+  },
+  "homepage": "https://github.com/jjsosa/promises_js#readme"
+}
