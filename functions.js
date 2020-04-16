@@ -1,3 +1,5 @@
+const fetch = require('node-fetch');
+
 function gotData(data) {
     console.log('DATA -> ', data);
 }
